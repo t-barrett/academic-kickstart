@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Dissertation Research"
+  title = "Dissertation"
   company = "Ability moderates alternate strategy use during the mental rotation task with molecule-like stimuli"
   company_url = ""
-  location = "California"
+  location = "University of California, Santa Barbara"
   date_start = "2015-09-01"
   date_end = "2019-09-01"
   description = """
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Master's Thesis Research"
+  title = "Master's Thesis"
   company = "Interaction Design and the Role of Spatial Ability in Virtual Molecule Manipulation Performance"
   company_url = ""
   location = "University of California, Santa Barbara"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   title = "Graduate Student Researcher"
   company = "NSF Grant | Modeling, Display, and Understanding Uncertainty in Simulations for Policy Decision Making"
   company_url = "http://visunc.sci.utah.edu/"
-  location = "University of California, Santa Barbara"
+  location = "University of California, Santa Barbara, University of Utah"
   date_start = "2013-09-01"
   date_end = "2015-09-01"
   description = """
@@ -73,12 +73,19 @@ date_format = "Jan 2006"
   date_end = "2017-09-01"
   description = """
   Courses taught:
+  
   * Laboratory in Advanced Research Methods
+  
   * Laboratory in Human Memory
+  
   * Cognitive Psychology
+  
   * Human Thinking and Problem Solving
+  
   * Developmental Psychology
+  
   * Hormones and Cognition
+  
   * Constructs in Psychology
   """
 
