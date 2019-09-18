@@ -30,12 +30,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
-  
-[[feature]]
-  icon = "windows"
-  icon_pack = "fas"
-  name = "MS Office"
-  description = "100%"
+  description = "80%"
+
 
 +++
