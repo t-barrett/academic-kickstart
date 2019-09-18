@@ -41,15 +41,21 @@ date_format = "Jan 2006"
   
 * Generation of Visual Stimuli
     * Developed and documented a programmatic stimuli generation process using [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine, and Adobe Photoshop.
+    
 * Data Collection
     * Developed and maintained automated analysis workflows using batch files to sync lab desktops and remote laptops.
+    
 * Data Processing
    * Munged messy Excel files into tidy CSV files using Python.
+   
 * Data Analyis 
-  * Deployed analysis using R scripts to run both locally and by our collaborators at University of Utah's Scientific Computing and Imaging Institute.
-* Delivered end-to-end datavis and analysis pipeline that continued to be used in future experiments.
+  * Developed analysis using R scripts to run both locally and by our collaborators at University of Utah's Scientific Computing and Imaging Institute.
+  * Deployed end-to-end data visualization and analysis pipeline that continued to be used for project.
+
 * Co-authored paper: "Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays." 
   * Awarded 2016 Raymond Nickerson Best Paper Award in Journal of Experimental Psychology: Applied.
+  
+  
 * Presented research at all-hands meetings in Salt Lake City and Santa Barbara.
   """
 
