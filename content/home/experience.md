@@ -17,6 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Dissertation Research"
+  company = "University of California, Santa Barbara"
+  company_url = "http://visunc.sci.utah.edu/"
+  location = "California"
+  date_start = "2013-01-01"
+  date_end = "2015-01-01"
+  description = """
+  """
+
 [[experience]]
   title = "Graduate Student Researcher"
   company = "University of California, Santa Barbara"
@@ -27,6 +38,7 @@ date_format = "Jan 2006"
   description = """NSF Grant: Modeling, Display, and Understanding Uncertainty in Simulations for Policy Decision Making
   
   Responsibilities include:
+  
   * Generation of Visual Stimuli
     + Developed and documented a programmatic stimuli generation process using [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine, and Adobe Photoshop.
   * Data Collection
