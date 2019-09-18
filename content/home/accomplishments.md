@@ -19,13 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Dissertation"
+  organization = "NSF Graduate Research Fellowship"
   organization_url = ""
-  title = "Ability moderates alternate strategy use during the mental rotation task with molecule-like stimuli"
+  title = "Honorable Mention"
   url = ""
   certificate_url = ""
   date_start = "2015-10-01"
-  date_end = "2019-09-01"
+  date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Extreme Science and Engineering Discovery Environment"
+  organization_url = "https://www.xsede.org/about/what-we-do"
+  title = "Computational Start-up Grant, TG-DBS160003, 50,000 SU"
+  url = "https://portal.xsede.org/allocations/startup"
+  certificate_url = ""
+  date_start = "2016-10-01"
+  date_end = ""
+  description = "Access to national supercomputing resources including multi-core and many-core high-performance computing (HPC) systems, distributed high-throughput computing (HTC) environments, visualization and data analysis systems, large-memory systems, data storage, and cloud systems."
 
 +++
