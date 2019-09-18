@@ -13,12 +13,12 @@ superuser: true
 role: Experimental Psychologist
 
 # Organizations/Affiliations
-# organizations:
-# - name: []
-#   url: []
+organizations:
+ - name: University of California, Santa Barbara
+   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Trevor's research is situated at the intersection of spatial cognition and human-computer interaction.
+bio: My research is situated at the intersection of spatial cognition and human-computer interaction.
 
 interests:
 - Spatial Cognition
@@ -44,7 +44,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:trevorbarrett@ucsb.edu'  # For a direct email link, use "mailto:trevorbarrett@ucsb.edu".
+  link:'#contact'
+#  link: 'mailto:trevorbarrett@ucsb.edu'  # For a direct email link, use "mailto:trevorbarrett@ucsb.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tbarrett_
