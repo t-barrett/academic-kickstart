@@ -26,6 +26,9 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-09-01"
   description = """
+  * Explored effects of strategic ambiguity in a 2-choice forced-response task relating to problem solving in a STEM domain. 
+  * Built predictive classifier of users’ cognitive strategy based on response times using discriminant analysis and k-fold cross-validation. 
+  * Discovered 70% of users adopted the more efficient non-rotaion strategy, and adoption of the alternate strategy was moderated by abstract reasoning ability.
   """
   
 [[experience]]
@@ -33,9 +36,11 @@ date_format = "Jan 2006"
   company = "Interaction Design and the Role of Spatial Ability in Virtual Molecule Manipulation Performance"
   company_url = ""
   location = "University of California, Santa Barbara"
-  date_start = "2012-01-01"
+  date_start = "2012-09-01"
   date_end = "2015-09-01"
   description = """
+  * Investigated the effect of stereoscopic viewing and tangible user interface location on STEM problem solving in a novel mixed reality apparatus.
+  * Discovered interface location manipulation effects depended on user ability level : only low spatial ability users benefited from co-location of the physical and virtual objects.
   """
   
 [[experience]]
@@ -44,7 +49,7 @@ date_format = "Jan 2006"
   company_url = "http://visunc.sci.utah.edu/"
   location = "University of California, Santa Barbara"
   date_start = "2013-09-01"
-  date_end = "2016-09-01"
+  date_end = "2015-09-01"
   description = """
 * Visual Stimuli Generation: Developed and documented a programmatic stimuli generation process with [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine and Adobe Photoshop.
     
@@ -64,8 +69,8 @@ date_format = "Jan 2006"
   company = "Psychological and Brain Sciences, UCSB"
   company_url = ""
   location = "University of California, Santa Barbara"
-  date_start = "2015-09-01"
-  date_end = "2019-09-01"
+  date_start = "2013-09-01"
+  date_end = "2017-09-01"
   description = """
   Courses taught:
   Laboratory in Advanced Research Methods
@@ -82,7 +87,7 @@ date_format = "Jan 2006"
   company = "NSF Grant | Representation Translation with Concrete and Virtual Models in Chemistry"
   company_url = ""
   location = "University of California, Santa Barbara"
-  date_start = "2012-09-01"
+  date_start = "2012-08-01"
   date_end = "2013-09-01"
   description = """
   * Data collection
@@ -101,8 +106,8 @@ date_format = "Jan 2006"
   date_end = "2012-09-01"
   description = """
   * Data collection
-  * Developed a taxonomy of gestures
-  * Annotate user gestures from video recordings
-
+  * Developed a taxonomy of user gestures
+  * Annotated user gestures from video recordings
+  * Analyzed data in Excel and SPSS
   """
 +++
