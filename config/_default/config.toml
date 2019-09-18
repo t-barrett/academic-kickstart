@@ -6,8 +6,7 @@
 
 # Title of your site
 title = "Trevor J Barrett"
-subtitle = "Selected works"
-summary = "Selected works"
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
