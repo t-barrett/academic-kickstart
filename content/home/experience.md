@@ -30,13 +30,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate Student Researcher"
-  company = "University of California, Santa Barbara"
+  company = "NSF Grant | Modeling, Display, and Understanding Uncertainty in Simulations for Policy Decision Making"
   company_url = "http://visunc.sci.utah.edu/"
-  location = "California"
+  location = "University of California, Santa Barbara"
   date_start = "2013-01-01"
   date_end = "2015-01-01"
-  description = """NSF Grant | Modeling, Display, and Understanding Uncertainty in Simulations for Policy Decision Making
-  
+  description = """
   Responsibilities include:
   
 * Visual Stimuli Generation: Developed and documented a programmatic stimuli generation process with [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine and Adobe Photoshop.
