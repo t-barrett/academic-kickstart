@@ -22,23 +22,28 @@ date_format = "Jan 2006"
   company = "University of California, Santa Barbara"
   company_url = ""
   location = "California"
-  date_start = "2013-01-01"
-  date_end = "2015-01-01"
-  description = "NSF Grant: "Representation Translation with Concrete and Virtual Models in Chemistry""
+  date_start = "2012-01-01"
+  date_end = "2013-01-01"
+  description = """NSF Grant: Representation Translation with Concrete and Virtual Models in Chemistry
+  Responsibilities include:
+  * Data Collection
+      + Gesture Analysis from videos
+  * Excel
+  * Deploying
+  """
+
+[[experience]]
+  title = "Graduate Student Researcher"
+  company = "University of California, Santa Barbara"
+  company_url = ""
+  location = "California"
+  date_start = "2011-01-01"
+  date_end = "2014-01-01"
+  description = """NSF Grant: Representation Translation with Concrete and Virtual Models in Chemistry
   Responsibilities include:
   
   * Analysing
   * Modelling
   * Deploying
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
 +++
