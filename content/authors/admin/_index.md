@@ -72,7 +72,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 
 
 
