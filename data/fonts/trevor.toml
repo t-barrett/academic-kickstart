@@ -5,9 +5,9 @@ name = "trevor"
 google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
 
 # Font families
-heading_font = "Arapey"
-body_font = "Karla"
-nav_font = "Karla"
+heading_font = "Roboto Mono"
+body_font = "Roboto Mono"
+nav_font = "Roboto Mono"
 mono_font = "Roboto Mono"
 
 # Font size
