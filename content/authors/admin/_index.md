@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is situated at the intersection of spatial cognition and human-computer interaction.
+bio: Trevor's research is situated at the intersection of spatial cognition and human-computer interaction.
 
 interests:
 - Spatial Cognition
@@ -30,10 +30,10 @@ education:
   - course: PhD in Psychological and Brain Sciences
     institution: University of California, Santa Barbara
     year: 2019
-  - course: MEng in Psychology
+  - course: MA in Psychology
     institution: University of California, Santa Barbara
     year: 2015
-  - course: BSc in Psychology
+  - course: BA in Psychology
     institution: University of California, Santa Barbara
     year: 2011
 
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:trevorbarrett@ucsb.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tbarrett_
