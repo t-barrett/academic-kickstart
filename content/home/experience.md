@@ -39,24 +39,18 @@ date_format = "Jan 2006"
   
   Responsibilities include:
   
-* Generation of Visual Stimuli
-    * Developed and documented a programmatic stimuli generation process using [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine, and Adobe Photoshop.
+* Visual Stimuli Generation: Developed and documented a programmatic stimuli generation process with [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine and Adobe Photoshop.
     
-* Data Collection
-    * Developed and maintained automated analysis workflows using batch files to sync lab desktops and remote laptops.
+* Data Collection: Developed and maintained automated data collection workflows using batch tasks to sync files between the data collection workstations and data analysis workstations.
     
-* Data Processing
-   * Munged messy Excel files into tidy CSV files using Python.
+* Data Processing: Scripted in Python to munge messy Excel files into tidy CSV files.
    
-* Data Analyis 
-  * Developed analysis using R scripts to run both locally and by our collaborators at University of Utah's Scientific Computing and Imaging Institute.
-  * Deployed end-to-end data visualization and analysis pipeline that continued to be used for project.
+* Data Analyis: Developed R scripts to run both locally and by our collaborators at University of Utah's Scientific Computing and Imaging Institute. The resulting end-to-end data visualization and analysis pipeline continued to be used after I moved on from the project.
 
-* Co-authored paper: "Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays." 
-  * Awarded 2016 Raymond Nickerson Best Paper Award in Journal of Experimental Psychology: Applied.
+* Co-authored paper: "Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays." Awarded 2016 Raymond Nickerson Best Paper Award in Journal of Experimental Psychology: Applied.
   
   
-* Presented research at all-hands meetings in Salt Lake City and Santa Barbara.
+* Presented research at all-hands meetings in Salt Lake City and Santa Barbara, as well as Spatial Cognition .
   """
 
 [[experience]]
