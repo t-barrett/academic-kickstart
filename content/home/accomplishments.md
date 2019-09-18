@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "NSF zExtreme Science and Engineering Discovery Environment"
+  organization = "NSF Extreme Science and Engineering Discovery Environment"
   organization_url = "https://www.xsede.org/about/what-we-do"
   title = "Computational Start-up Grant, TG-DBS160003, 50,000 SU"
   url = "https://portal.xsede.org/allocations/startup"

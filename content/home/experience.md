@@ -48,15 +48,33 @@ date_format = "Jan 2006"
   description = """
 * Visual Stimuli Generation: Developed and documented a programmatic stimuli generation process with [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine and Adobe Photoshop.
     
-* Data Collection: Developed and maintained automated data collection workflows using batch tasks to sync files between the data collection workstations and data analysis workstations.
+* Data collection: Developed and maintained automated data collection workflows using batch tasks to sync files between the data collection workstations and data analysis workstations.
     
-* Data Processing: Scripted in Python to munge messy Excel files into tidy CSV files.
+* Data processing: Scripted in Python to munge messy Excel files into tidy CSV files.
    
-* Data Analyis: Developed R scripts to run both locally and by our collaborators at University of Utah's Scientific Computing and Imaging Institute. The resulting end-to-end data visualization and analysis pipeline continued to be used after I moved on from the project.
+* Data analyis: Developed R scripts to run both locally and by our collaborators at University of Utah's Scientific Computing and Imaging Institute. The resulting end-to-end data visualization and analysis pipeline continued to be used after I moved on from the project.
 
 * Co-authored paper: "Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays." Awarded 2016 Raymond Nickerson Best Paper Award in Journal of Experimental Psychology: Applied.
   
-* Presented research at all-hands meetings in Salt Lake City and Santa Barbara, as well as CogSci 2016, Bremen, Germany.
+* Presented research at all-hands meetings in Salt Lake City and Santa Barbara as well as at the 2016 CogSci conference in Pasadena, California.
+  """
+  
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Psychological and Brain Sciences, UCSB"
+  company_url = ""
+  location = "University of California, Santa Barbara"
+  date_start = "2015-09-01"
+  date_end = "2019-09-01"
+  description = """
+  Courses taught:
+  Laboratory in Advanced Research Methods
+  Laboratory in Human Memory
+  Cognitive Psychology
+  Human Thinking and Problem Solving
+  Developmental Psychology
+  Hormones and Cognition
+  Constructs in Psychology
   """
 
 [[experience]]
@@ -67,23 +85,24 @@ date_format = "Jan 2006"
   date_start = "2012-09-01"
   date_end = "2013-09-01"
   description = """
-  
-  Responsibilities include:
-  
-  * Data Collection
-  * Create coding scheme for analysis of gestures
-  * Annotate videos using scheme, maintain Excel files for each participant
+  * Data collection
+  * Created coding scheme for analysis of gestures from video
+  * Annotated videos using coding scheme, maintained Excel files for each participant
   * Conducted statistical analyses in SPSS: t-test, ANOVA, ANCOVA
   * Co-authored several publications and presentations
   """
   
 [[experience]]
   title = "Research Assistant II"
-  company = "University of California, Santa Barbara"
+  company = "NSF Grant | Representation Translation with Concrete and Virtual Models in Chemistry"
   company_url = ""
   location = "University of California, Santa Barbara"
   date_start = "2010-09-01"
   date_end = "2012-09-01"
-  description = """NSF Grant | Representation Translation with Concrete and Virtual Models in Chemistry
+  description = """
+  * Data collection
+  * Developed a taxonomy of gestures
+  * Annotate user gestures from video recordings
+
   """
 +++
