@@ -30,6 +30,7 @@ theme = "hugo-academic"
 color_theme = "dark"
 sharing = true
 
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
