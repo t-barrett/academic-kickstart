@@ -15,7 +15,7 @@ role: Experimental Psychologist
 # Organizations/Affiliations
 organizations:
 - name: University of California, Santa Barbara
-  url: "ucsb.edu"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trevor's research is situated at the intersection of spatial cognition and human-computer interaction.
