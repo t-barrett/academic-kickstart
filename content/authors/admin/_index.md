@@ -72,7 +72,6 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
----
 
 [menu]
   # Shown in the side menu.
@@ -110,7 +109,7 @@ email: ""
   github = "yoshiharuyamashita"
   stackoverflow = "*"
   linkedin = "*"
-
+---
 
 
 
