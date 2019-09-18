@@ -20,14 +20,24 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Dissertation Research"
-  company = "University of California, Santa Barbara"
-  company_url = "http://visunc.sci.utah.edu/"
+  company = "Ability moderates alternate strategy use during the mental rotation task with molecule-like stimuli"
+  company_url = ""
   location = "California"
-  date_start = "2013-01-01"
-  date_end = "2015-01-01"
+  date_start = "2015-09-01"
+  date_end = "2019-09-01"
   description = """
   """
-
+  
+[[experience]]
+  title = "Master's Thesis Research"
+  company = "Interaction Design and the Role of Spatial Ability in Virtual Molecule Manipulation Performance"
+  company_url = ""
+  location = "University of California, Santa Barbara"
+  date_start = "2012-01-01"
+  date_end = "2015-09-01"
+  description = """
+  """
+  
 [[experience]]
   title = "Graduate Student Researcher"
   company = "NSF Grant | Modeling, Display, and Understanding Uncertainty in Simulations for Policy Decision Making"
@@ -36,8 +46,6 @@ date_format = "Jan 2006"
   date_start = "2013-01-01"
   date_end = "2015-01-01"
   description = """
-  Responsibilities include:
-  
 * Visual Stimuli Generation: Developed and documented a programmatic stimuli generation process with [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine and Adobe Photoshop.
     
 * Data Collection: Developed and maintained automated data collection workflows using batch tasks to sync files between the data collection workstations and data analysis workstations.
