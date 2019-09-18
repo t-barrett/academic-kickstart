@@ -27,7 +27,7 @@ disqusShortname = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
-color_theme = "rose"
+color_theme = "dark"
 
 
 # Get last modified date for content from Git?
