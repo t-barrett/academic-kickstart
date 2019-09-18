@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Trevor Barrett
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Experimental Psychologist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Santa Barbara
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is situated at the intersection of spatial cognition and human-computer interaction.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial Cognition
+- Human-computer Interaction
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychological and Brain Sciences
+    institution: University of California, Santa Barbara
+    year: 2019
+  - course: MEng in Psychology
+    institution: University of California, Santa Barbara
+    year: 2015
+  - course: BSc in Psychology
+    institution: University of California, Santa Barbara
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,18 +47,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tbarrett_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=UUPVK0kAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/t-barrett
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Trevor Barrett recently recieved his PhD in Psychology under the advisement of Mary Hegarty at University of California, Santa Barbara. Working in the Spatial Thinking Lab, Trevor's early research focused on issues surrounding interaction design in the context of STEM problem solving tasks using a tangible user interface in a mixed reality environment. For his dissertation research, he employed model-based clustering to predict users' cognitive strategy based on response time and individual differences in ability.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Working in the Spatial Thinking Lab, Trevor gained extensive laboratory experience working on and supervising multiple collaborative experimental research projects. He feels just as at home advising Advanced Research Methods Laboratory group projects as he does contributing presentations at cross-disciplinary multi-institution NSF grant meetings. Trevor enjoys developing tools and analytics pipelines for students and colleagues to better express their data stories and confidently make actionable inferences. He is currently looking for a position to apply his training in Experimental Psychology along with scalable machine learning methods at a company or research group solving tomorrow's problems.
+
+
