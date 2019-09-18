@@ -33,7 +33,7 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "office"
+  icon = "windows"
   icon_pack = "fas"
   name = "MS Office"
   description = "100%"
