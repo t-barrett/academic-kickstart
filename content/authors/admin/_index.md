@@ -44,8 +44,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link:'#contact'
-#  link: 'mailto:trevorbarrett@ucsb.edu'  # For a direct email link, use "mailto:trevorbarrett@ucsb.edu".
+# link:'#contact'
+  link: 'mailto:trevorbarrett@ucsb.edu'  # For a direct email link, use "mailto:trevorbarrett@ucsb.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tbarrett_
