@@ -20,24 +20,32 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Dissertation Research"
-  company = "University of California, Santa Barbara"
-  company_url = "http://visunc.sci.utah.edu/"
+  company = "Ability moderates alternate strategy use during the mental rotation task with molecule-like stimuli"
+  company_url = ""
   location = "California"
-  date_start = "2013-01-01"
-  date_end = "2015-01-01"
+  date_start = "2015-09-01"
+  date_end = "2019-09-01"
   description = """
   """
-
+  
+[[experience]]
+  title = "Master's Thesis Research"
+  company = "Interaction Design and the Role of Spatial Ability in Virtual Molecule Manipulation Performance"
+  company_url = ""
+  location = "University of California, Santa Barbara"
+  date_start = "2012-01-01"
+  date_end = "2015-09-01"
+  description = """
+  """
+  
 [[experience]]
   title = "Graduate Student Researcher"
   company = "NSF Grant | Modeling, Display, and Understanding Uncertainty in Simulations for Policy Decision Making"
   company_url = "http://visunc.sci.utah.edu/"
   location = "University of California, Santa Barbara"
-  date_start = "2013-01-01"
-  date_end = "2015-01-01"
+  date_start = "2013-09-01"
+  date_end = "2016-09-01"
   description = """
-  Responsibilities include:
-  
 * Visual Stimuli Generation: Developed and documented a programmatic stimuli generation process with [imagemagick] (https://imagemagick.org/index.php) on a Linux virtual machine and Adobe Photoshop.
     
 * Data Collection: Developed and maintained automated data collection workflows using batch tasks to sync files between the data collection workstations and data analysis workstations.
@@ -48,18 +56,17 @@ date_format = "Jan 2006"
 
 * Co-authored paper: "Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays." Awarded 2016 Raymond Nickerson Best Paper Award in Journal of Experimental Psychology: Applied.
   
-  
 * Presented research at all-hands meetings in Salt Lake City and Santa Barbara, as well as CogSci 2016, Bremen, Germany.
   """
 
 [[experience]]
   title = "Graduate Student Researcher"
-  company = "University of California, Santa Barbara"
+  company = "NSF Grant | Representation Translation with Concrete and Virtual Models in Chemistry"
   company_url = ""
-  location = "California"
-  date_start = "2011-01-01"
-  date_end = "2013-01-01"
-  description = """NSF Grant | Representation Translation with Concrete and Virtual Models in Chemistry
+  location = "University of California, Santa Barbara"
+  date_start = "2012-09-01"
+  date_end = "2013-09-01"
+  description = """
   
   Responsibilities include:
   
@@ -68,5 +75,15 @@ date_format = "Jan 2006"
   * Annotate videos using scheme, maintain Excel files for each participant
   * Conducted statistical analyses in SPSS: t-test, ANOVA, ANCOVA
   * Co-authored several publications and presentations
+  """
+  
+[[experience]]
+  title = "Research Assistant II"
+  company = "University of California, Santa Barbara"
+  company_url = ""
+  location = "University of California, Santa Barbara"
+  date_start = "2010-09-01"
+  date_end = "2012-09-01"
+  description = """NSF Grant | Representation Translation with Concrete and Virtual Models in Chemistry
   """
 +++
