@@ -66,8 +66,8 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Psychological and Brain Sciences, UCSB"
-  company_url = ""
+  company = "Dept. of Psychological & Brain Sciences"
+  company_url = "http://psych.ucsb.edu"
   location = "University of California, Santa Barbara"
   date_start = "2013-09-01"
   date_end = "2017-09-01"
