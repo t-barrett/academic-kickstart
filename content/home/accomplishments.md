@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplishments"
-subtitle = ""
+subtitle = "Selected Awards and Accomplishments"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,17 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of California, Santa Barbara"
+  organization_url = "https://www.graddiv.ucsb.edu"
+  title = "Graduate Division Dissertation Fellowship"
+  url = "https://www.graddiv.ucsb.edu/financial/central-campus-fellowships"
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "NSF Graduate Research Fellowship"
-  organization_url = ""
+  organization_url = "https://www.nsfgrfp.org"
   title = "Honorable Mention"
-  url = ""
+  url = "https://www.nsf.gov/news/news_summ.jsp?cntn_id=134647&org=NSF&from=news"
   certificate_url = ""
   date_start = "2015-10-01"
   date_end = ""
   description = ""
   
 [[item]]
-  organization = "Extreme Science and Engineering Discovery Environment"
+  organization = "NSF Extreme Science and Engineering Discovery Environment"
   organization_url = "https://www.xsede.org/about/what-we-do"
   title = "Computational Start-up Grant, TG-DBS160003, 50,000 SU"
   url = "https://portal.xsede.org/allocations/startup"

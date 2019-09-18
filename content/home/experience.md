@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 * Co-authored paper: "Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays." Awarded 2016 Raymond Nickerson Best Paper Award in Journal of Experimental Psychology: Applied.
   
   
-* Presented research at all-hands meetings in Salt Lake City and Santa Barbara, as well as Spatial Cognition .
+* Presented research at all-hands meetings in Salt Lake City and Santa Barbara, as well as CogSci 2016, Bremen, Germany.
   """
 
 [[experience]]
