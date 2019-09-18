@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD | Psychological and Brain Sciences
+  - course: PhD Psychological and Brain Sciences
     institution: University of California, Santa Barbara
     year: 2019
-  - course: MA | Psychology
+  - course: MA Psychology
     institution: University of California, Santa Barbara
     year: 2015
-  - course: BA | Psychology
+  - course: BA SPsychology
     institution: University of California, Santa Barbara
     year: 2011
 
@@ -64,7 +64,7 @@ social:
   link: static/files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "trevorbarrett@ucsb.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,7 +72,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 
 
 
