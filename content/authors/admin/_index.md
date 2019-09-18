@@ -59,15 +59,18 @@ social:
 - icon: cv
   icon_pack: ai
   link: static/files/cv.pdf
+- icon: resume
+  icon_pack: ai
+  link: static/files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 

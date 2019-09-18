@@ -10,6 +10,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
+color_theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -111,7 +112,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me on Twitter", link = "https://twitter.com/tbarrett_"},
   {icon = "linkedin", icon_pack = "fab", name = "Add Me on LinkedIn", link = "https://www.linkedin.com/in/trevor-barrett-ph-d-41127b59/"},
-  {icon = "scholar", icon_pack = "fab", name = "View my publications on Google Scholar", link = "https://scholar.google.com/citations?user=UUPVK0kAAAAJ&hl=en"},
+  {icon = "scholar", icon_pack = "fab", name = "View my publications on Google Scholar", link = "https://scholar.google.com/citations?user=UUPVK0kAAAAJ&hl=en"}
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
