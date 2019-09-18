@@ -15,7 +15,7 @@ role: Experimental Psychologist
 # Organizations/Affiliations
 organizations:
 - name: University of California, Santa Barbara
-  url: "ucsb.edu"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trevor's research is situated at the intersection of spatial cognition and human-computer interaction.
@@ -70,8 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Trevor Barrett recently recieved his PhD in Psychology under the advisement of Mary Hegarty at University of California, Santa Barbara. Working in the Spatial Thinking Lab, his Master's research focused on issues surrounding interaction design of virtual environments for STEM problem solving tasks. For this work, he engineered a custom tangible user interface for haptic feedback and gave the impression of physically manipulating stimuli in mixed reality. 
 
-Working in the Spatial Thinking Lab, Trevor gained extensive laboratory experience working on and supervising multiple collaborative experimental research projects. He feels just as at home advising Advanced Research Methods Laboratory group projects as he does contributing presentations at cross-disciplinary multi-institution NSF grant meetings. Trevor enjoys developing tools and analytics pipelines for students and colleagues to better express their data stories and confidently make actionable inferences. He is currently looking for a position to apply his training in Experimental Psychology along with scalable machine learning methods at a company or research group solving tomorrow's problems.
 
 
